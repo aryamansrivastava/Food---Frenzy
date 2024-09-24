@@ -29,7 +29,7 @@ npm install
  ```
 ### 3. Start the dev server
 ``` 
-npm start
+npm run dev
  ```
 
 ` Make sure you've enabled CORS extension installed in your browser while fetching Swiggy Live API `
